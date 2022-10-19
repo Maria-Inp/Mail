@@ -1,0 +1,71 @@
+.read {
+    background-color: rgb(215, 210, 210);
+    cursor: pointer;
+}
+
+.unread {
+    background-color: white;
+    cursor: pointer;
+}
+
+#email-box-style {
+    border: 1px solid black;
+    border-radius: 6px;
+    margin-bottom: 6px;
+    padding: 10px;
+}
+
+#sender-div-style {
+    font-weight: bold;
+    font-size: large;
+    display: inline-block;
+}
+
+#subject-div-style {
+    display: inline-block;
+    margin-left: 3%;
+}
+
+#time-div-style {
+    float: right;
+}
+
+#from-div-style, #to-div-style, #subject-detail-style, #time-detail-style {
+    margin-bottom: 2%;
+}
+
+#from-name-style {
+    font-weight: bold;
+    display: inline-block;
+}
+
+#from-content-style {
+    display: inline-block;
+}
+
+#to-name-style {
+    font-weight: bold;
+    display: inline-block;
+}
+
+#to-content-style {
+    display: inline-block;
+}
+
+#subject-name-style {
+    font-weight: bold;
+    display: inline-block;
+}
+
+#subject-content-style {
+    display: inline-block;
+}
+
+#time-name-style {
+    font-weight: bold;
+    display: inline-block;
+}
+
+#time-content-style {
+    display: inline-block;
+}
